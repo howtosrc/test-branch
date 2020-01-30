@@ -1,2 +1,3 @@
 Primo file sul master
 Seconda riga modificata sul branch master
+Seconda riga modificata sul branch test2
